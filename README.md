@@ -1,1 +1,1 @@
-# GraphicEqualizer
+# arduino-music-sequencer
